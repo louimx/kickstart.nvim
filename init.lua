@@ -84,6 +84,31 @@ I hope you enjoy your Neovim journey,
 P.S. You can delete this when you're done too. It's your config now! :)
 --]]
 
+
+-- vim.opt.guicursor=""
+--vim.opt.nu = true
+--vim.opt.relativenumber = true
+--vim.opt.tabstop = 4
+--vim.opt.softtabstop = 4
+--vim.opt.shiftwidth = 4
+--vim.opt.expandtab = true
+
+--vim.g.rustfmt_autosave = 1
+
+--vim.opt.smartindent = true
+--vim.opt.wrap = true
+--vim.opt.swapfile = false
+--vim.opt.backup = false
+
+--vim.opt.hlsearch = false
+--vim.opt.incsearch = true
+
+--vim.opt.scrolloff = 8
+--vim.opt.signcolumn = "yes"
+--vim.opt.updatetime = 50
+--vim.opt.colorcolumn = "100"
+--vim.opt.textwidth = 95
+
 -- Set <space> as the leader key
 -- See `:help mapleader`
 --  NOTE: Must happen before plugins are loaded (otherwise wrong leader will be used)
